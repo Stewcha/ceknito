@@ -2769,3 +2769,6 @@ input[name="captcha"] {
     padding: 0;
     list-style-type: none;
 }
+.new-post-button{
+    background-color: #b5b5b5;
+}
